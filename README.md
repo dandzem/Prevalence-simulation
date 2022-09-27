@@ -51,6 +51,8 @@ The interface is divided in three main parts: the top-left section consists of a
 parameters, the top-right area is occupied by the environment simulator where the progress of
 the simulation is shown, the bottom-left section displays three graphs which show some
 statistics of the simulation’s dynamics.
+
+
 ![image](https://user-images.githubusercontent.com/113435148/192497735-0b5a99d8-9a2b-4089-98be-5dff8ccf6a08.png)
 
 
