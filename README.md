@@ -4,7 +4,7 @@ The program is used to simulate the spread of an infectious disease within a clo
 
 
 
-#Model Description
+# Model Description
 The multi-agent model will be developed using a software tool based on NetLogo, an open
 platform for simulations. The model created for this project is a modified version of
 “epiDEM” (Epidemiology: Understanding Disease Dynamics and Emergence through
@@ -51,6 +51,9 @@ The interface is divided in three main parts: the top-left section consists of a
 parameters, the top-right area is occupied by the environment simulator where the progress of
 the simulation is shown, the bottom-left section displays three graphs which show some
 statistics of the simulation’s dynamics.
+![image](https://user-images.githubusercontent.com/113435148/192497735-0b5a99d8-9a2b-4089-98be-5dff8ccf6a08.png)
+
+
 Legend of the model’s interface:
 1. INITIAL-VACCINATION CENTER (0-50): the number of vaccination centers in the
 environment
